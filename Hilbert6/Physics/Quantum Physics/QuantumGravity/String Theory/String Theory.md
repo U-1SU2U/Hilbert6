@@ -12,7 +12,7 @@
 
 
 
-hhh
+
 # Specialized Topics
 
 ## Open Closed String Duality
