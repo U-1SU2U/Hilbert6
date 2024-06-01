@@ -53,19 +53,6 @@
               "type": "markdown",
               "state": {
                 "file": "Meta/Non-Publishable/How to.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c317f7f3fae1f5f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Changelog.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Changelog.md",
+                "file": "Meta/Non-Publishable/How to.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Changelog.md",
+                "file": "Meta/Non-Publishable/How to.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Changelog.md"
+                "file": "Meta/Non-Publishable/How to.md"
               }
             }
           },
@@ -277,7 +264,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -300,10 +287,10 @@
       "obsidian-journey-plugin:Find Journey": false
     }
   },
-  "active": "c317f7f3fae1f5f2",
+  "active": "61fcd252bd4db241",
   "lastOpenFiles": [
-    "Meta/Hilbert 6.md",
     "Meta/Changelog.md",
+    "Meta/Hilbert 6.md",
     "Meta/ChangeChangeLog.md",
     "Physics/Quantum Physics/QuantumGravity/Holography/AFS/Carrollian Holography.md",
     "Physics/Quantum Physics/QFT/S-matrix.md",

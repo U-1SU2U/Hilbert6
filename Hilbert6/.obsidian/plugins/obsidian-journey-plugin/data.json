@@ -6,6 +6,6 @@
   "MOCMaxLinks": 30,
   "enableHighContrast": false,
   "skipFolders": "",
-  "enableLinks": false,
+  "enableLinks": true,
   "enableTransclusion": false
 }
