@@ -1,11 +1,10 @@
 # Set up
 
-**TL;DR**: [Obsidian help](https://help.obsidian.md/Home) is your friend.
+**TL;DR**: [Obsidian help](https://help.obsidian.md/Home) is your friend. 
 
 ## Plugins
 
-PPP
-hhh
+
 
 
 # Contributing
