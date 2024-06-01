@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 14024704
+      }
+    },
+    {
+      "query": "tag:#Mathematics  ",
+      "color": {
+        "a": 1,
+        "rgb": 2490598
+      }
+    },
+    {
+      "query": "tag:#Philosophy  ",
+      "color": {
+        "a": 1,
+        "rgb": 16449791
+      }
+    },
+    {
+      "query": "tag:#Meta  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#Biology  ",
+      "color": {
+        "a": 1,
+        "rgb": 161024
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.198961937716263,
+  "repelStrength": 9.65397923875433,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.5227181577786836,
+  "close": true
+}

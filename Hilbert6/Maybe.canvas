@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"08346ad4ae6bce6c","type":"text","text":"S-matrix","x":-200,"y":520,"width":250,"height":60},
+		{"id":"f0929c8f4c3e8937","type":"text","text":"","x":200,"y":520,"width":250,"height":60},
+		{"id":"ae135143312ce1c3","type":"text","text":"Celestial Holography","x":-200,"y":680,"width":250,"height":60},
+		{"id":"c828a96cc628894e","type":"text","text":"Carrollean Holography","x":200,"y":680,"width":250,"height":60},
+		{"id":"9080b6950de96c94","type":"text","text":"Asymptotically Flat Spacetimes","x":0,"y":380,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b251ab1a5d33e5d7","fromNode":"9080b6950de96c94","fromSide":"bottom","toNode":"08346ad4ae6bce6c","toSide":"top"},
+		{"id":"88794adb026e3e40","fromNode":"9080b6950de96c94","fromSide":"bottom","toNode":"f0929c8f4c3e8937","toSide":"top"},
+		{"id":"33627daa17c9f05b","fromNode":"08346ad4ae6bce6c","fromSide":"bottom","toNode":"ae135143312ce1c3","toSide":"top"},
+		{"id":"f47d882705229a05","fromNode":"ae135143312ce1c3","fromSide":"right","toNode":"c828a96cc628894e","toSide":"left","fromEnd":"arrow"},
+		{"id":"58b36cba7a12c3be","fromNode":"f0929c8f4c3e8937","fromSide":"bottom","toNode":"c828a96cc628894e","toSide":"top"}
+	]
+}

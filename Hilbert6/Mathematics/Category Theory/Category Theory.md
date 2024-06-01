@@ -1,0 +1,7 @@
+[[Mathematics]]
+
+
+
+
+
+#Mathematics #Philosophy

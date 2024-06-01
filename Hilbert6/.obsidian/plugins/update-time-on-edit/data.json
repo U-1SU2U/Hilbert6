@@ -1,0 +1,14 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Physics/Mathematical Physics.md": "240e009e172e013d965b4af3d01ed4a4a063dc823f623022d07509830c42ecef",
+    "Physics/Quantum Physics/Quantum Mechanics.md": "7729f88d823714501f9d1fccb09e43f1f1c409766664055b24f3793d2bf2660d"
+  }
+}
