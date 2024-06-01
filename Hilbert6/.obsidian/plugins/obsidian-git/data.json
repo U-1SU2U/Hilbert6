@@ -31,7 +31,7 @@
   "dateInHistoryView": true,
   "lineAuthor": {
     "show": true,
-    "followMovement": "inactive",
+    "followMovement": "same-commit",
     "authorDisplay": "full",
     "showCommitHash": true,
     "dateTimeFormatOptions": "date",
