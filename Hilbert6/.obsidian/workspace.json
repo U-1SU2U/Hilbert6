@@ -4,102 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d30129fc52d74e13",
+        "id": "a4428ba3e5d6c45b",
         "type": "tabs",
         "children": [
           {
-            "id": "2da958102b7695c6",
+            "id": "35cca0d54ae2ef9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Quantum Physics/QuantumGravity/Holography/AFS/Celestial Holography.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61fcd252bd4db241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Quantum Physics/QuantumGravity/String Theory/String Theory.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab72eb62f5468fd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Philosophy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "369d7c01060b00f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Mathematics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a94a3249d4c611ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Biology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc16d9a090de644d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/About us.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3f09165570bed02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Contact.md",
+                "file": "Meta/Hilbert 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Quantum Physics/QuantumGravity/String Theory/String Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Quantum Physics/QuantumGravity/String Theory/String Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,9 +123,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics/Quantum Physics/QuantumGravity/String Theory/String Theory.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "c3f09165570bed02",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -246,11 +171,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 609.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,17 +194,23 @@
       "obsidian-journey-plugin:Find Journey": false
     }
   },
-  "active": "61fcd252bd4db241",
+  "active": "c3f09165570bed02",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Physics/Quantum Physics/QuantumGravity/String Theory/String Theory.md",
-    "Meta/Non-Publishable/How to.md",
     "Meta/Changelog.md",
     "Meta/Hilbert 6.md",
+    "Meta/Contact.md",
+    "Meta/About us.md",
+    "Biology/Biology.md",
+    "Mathematics/Mathematics.md",
+    "Philosophy/Philosophy.md",
+    "Physics/Quantum Physics/QuantumGravity/Holography/AFS/AFS Holography.md",
+    "Physics/Quantum Physics/QuantumGravity/Holography/AFS/Celestial Holography.md",
+    "Physics/Quantum Physics/QuantumGravity/String Theory/String Theory.md",
+    "Untitled 1.canvas",
+    "Meta/Non-Publishable/How to.md",
     "Meta/ChangeChangeLog.md",
     "Physics/Quantum Physics/QuantumGravity/Holography/AFS/Carrollian Holography.md",
     "Physics/Quantum Physics/QFT/S-matrix.md",
-    "Physics/Quantum Physics/QuantumGravity/Holography/AFS/AFS Holography.md",
     "Physics/Quantum Physics/QFT/QFT.md",
     "Physics/Mathematical Physics.md",
     "Physics/Quantum Physics/Quantum Mechanics.md",
@@ -290,23 +221,18 @@
     "Untitled.md",
     "Untitled.canvas",
     "Philosophy/Identity/Identity.md",
-    "Meta/Contact.md",
     "Meta/Meta.md",
     "Meta/Non-Publishable",
     "Physics/Quantum Physics/QuantumGravity/QFTCS/QFTCS.md",
     "Physics/Quantum Physics/QuantumGravity/Holography/AdS/AdS CFT.md",
-    "Physics/Quantum Physics/QuantumGravity/Holography/AFS/Celestial Holography.md",
     "Untitled 1",
     "Maybe.canvas",
     "Physics/Quantum Physics/QuantumGravity/Holography/dS",
     "Physics/Quantum Physics/QuantumGravity/Holography/AdS",
     "Physics/Quantum Physics/QuantumGravity/Holography/AFS",
-    "Meta/About us.md",
-    "Philosophy/Philosophy.md",
     "Philosophy/Identity",
     "Physics/Classical physics/Relativistic Classical Phsysics/General Relativity.md",
     "Physics/Quantum Physics/QuantumGravity/QFTCS",
-    "Biology/Biology.md",
     "Physics/Quantum Physics/QuantumGravity/Holography",
     "Physics/Quantum Physics/QuantumGravity/Quantum Gravity.md"
   ]
