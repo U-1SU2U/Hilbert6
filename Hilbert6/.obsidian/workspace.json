@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Hilbert 6.md",
+                "file": "Physics/Quantum Physics/Quantum Mechanics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Hilbert 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Hilbert 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Meta/Hilbert 6.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 609.5
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,6 +196,8 @@
   },
   "active": "c3f09165570bed02",
   "lastOpenFiles": [
+    "Physics/Quantum Physics/Quantum Mechanics.md",
+    "Albuquerque et al. - Dogs recognize dog and human emotions.pdf",
     "Meta/Changelog.md",
     "Meta/Hilbert 6.md",
     "Meta/Contact.md",
@@ -217,7 +215,6 @@
     "Physics/Quantum Physics/QFT/S-matrix.md",
     "Physics/Quantum Physics/QFT/QFT.md",
     "Physics/Mathematical Physics.md",
-    "Physics/Quantum Physics/Quantum Mechanics.md",
     "desktop.ini",
     "publish.css",
     "Physics/Quantum Physics/QuantumGravity/Holography/Holography.md",
@@ -236,8 +233,6 @@
     "Physics/Quantum Physics/QuantumGravity/Holography/AFS",
     "Philosophy/Identity",
     "Physics/Classical physics/Relativistic Classical Phsysics/General Relativity.md",
-    "Physics/Quantum Physics/QuantumGravity/QFTCS",
-    "Physics/Quantum Physics/QuantumGravity/Holography",
-    "Physics/Quantum Physics/QuantumGravity/Quantum Gravity.md"
+    "Physics/Quantum Physics/QuantumGravity/QFTCS"
   ]
 }
