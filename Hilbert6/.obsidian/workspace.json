@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Geometry/Algebraic Geometry/Hodge theory/Hodge Theory.md",
+                "file": "Meta/Non-Publishable/How to.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hori et al. - 2003 - Mirror symmetry.pdf",
+                "file": "Meta/Non-Publishable/How to.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hori et al. - 2003 - Mirror symmetry.pdf",
+                "file": "Meta/Non-Publishable/How to.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hori et al. - 2003 - Mirror symmetry.pdf"
+                "file": "Meta/Non-Publishable/How to.md"
               }
             }
           },
@@ -249,11 +249,14 @@
       }
     ]
   },
-  "active": "d92f862926ba70f9",
+  "active": "9a19d0d2af4da63c",
   "lastOpenFiles": [
+    "Meta/Non-Publishable/Tasks.md",
+    "Meta/Non-Publishable/How to.md",
+    "Meta/Hilbert 6.md",
     "Mathematics/Geometry/Algebraic Geometry/Hodge theory/Hodge Theory.md",
-    "Mathematics/Topology/Algebraic Topology/Cohomology/Cohomology.md",
     "Hori et al. - 2003 - Mirror symmetry.pdf",
+    "Mathematics/Topology/Algebraic Topology/Cohomology/Cohomology.md",
     "Mathematics/Topology/Algebraic Topology",
     "Mathematics/Geometry/Algebraic Geometry/Hodge theory/Untitled",
     "Mathematics/Geometry/Algebraic Geometry",
@@ -266,7 +269,6 @@
     "Physics/Quantum Physics/Quantum Mechanics.md",
     "Albuquerque et al. - Dogs recognize dog and human emotions.pdf",
     "Meta/Changelog.md",
-    "Meta/Hilbert 6.md",
     "Meta/Contact.md",
     "Meta/About us.md",
     "Biology/Biology.md",
@@ -276,7 +278,6 @@
     "Physics/Quantum Physics/QuantumGravity/Holography/AFS/Celestial Holography.md",
     "Physics/Quantum Physics/QuantumGravity/String Theory/String Theory.md",
     "Untitled 1.canvas",
-    "Meta/Non-Publishable/How to.md",
     "Meta/ChangeChangeLog.md",
     "Physics/Quantum Physics/QuantumGravity/Holography/AFS/Carrollian Holography.md",
     "Physics/Quantum Physics/QFT/S-matrix.md",
@@ -284,7 +285,6 @@
     "Physics/Mathematical Physics.md",
     "desktop.ini",
     "Physics/Quantum Physics/QuantumGravity/Holography/Holography.md",
-    "Meta/Non-Publishable/Tasks.md",
     "Philosophy/Identity/Identity.md",
     "Meta/Meta.md",
     "Physics/Quantum Physics/QuantumGravity/QFTCS/QFTCS.md",

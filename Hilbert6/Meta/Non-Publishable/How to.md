@@ -33,16 +33,20 @@ If you have some request, add a [[Tasks|task]]:
 - [ ] Create a new task with the desired details.
 - [ ] To mark a [[Tasks|task]] as completed, just click on the checkbox.
 
+Furthermore,
+- [ ] One a task is complete put it between double percentage signs (%); e.g., %% 'the task' %% . This way they will not be visible in read mode, nor 'Publish'. ➕ 2024-06-03
+
 ### Tasks
 
 There are [[Tasks|tasks]] embedded in the notes, representing changes, and/or additions that need to be made; furthermore, there is a note[^3] ([[Tasks]]), where all tasks get compiled[^4], classified by different of their characteristics. If you feel like contributing but don't know what to do, and have the free time, check them in case you can help.
 
-Done tasks may be moved to the bottom of the page they are embedded in upon completion.
+Furthermore,
+- [ ] One a task is complete put it between double percentage signs (%); e.g., %% 'the task' %% . This way they will not be visible in read mode, nor 'Publish'. ➕ 2024-06-03
 
 #Meta 
 
 
-# Footnotes
+
 
 [^1]: This is not a dictatorship... yet. In other words, I don't care enough to check.
 [^2]: This is the [Obsidian plugin link](https://obsidian.md/plugins?id=obsidian-tasks-plugin), and the [plugin's dedicate webpage](https://publish.obsidian.md/tasks/Introduction).
