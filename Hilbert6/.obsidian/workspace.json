@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Meta/Non-Publishable/How to.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -251,8 +251,8 @@
   },
   "active": "9a19d0d2af4da63c",
   "lastOpenFiles": [
-    "Meta/Non-Publishable/Tasks.md",
     "Meta/Non-Publishable/How to.md",
+    "Meta/Non-Publishable/Tasks.md",
     "Meta/Hilbert 6.md",
     "Mathematics/Geometry/Algebraic Geometry/Hodge theory/Hodge Theory.md",
     "Hori et al. - 2003 - Mirror symmetry.pdf",
