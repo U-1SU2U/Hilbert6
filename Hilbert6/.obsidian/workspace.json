@@ -8,35 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35cca0d54ae2ef9f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "9a19d0d2af4da63c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Non-Publishable/How to.md",
-                "mode": "preview",
+                "file": "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Non-Publishable/How to.md",
+                "file": "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Non-Publishable/How to.md",
+                "file": "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,16 +126,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Non-Publishable/How to.md"
+                "file": "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md"
               }
-            }
-          },
-          {
-            "id": "c3f09165570bed02",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -191,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -251,12 +227,15 @@
   },
   "active": "9a19d0d2af4da63c",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md",
+    "Meta/Hilbert 6.md",
+    "Mathematics/Topology/Topology.md",
+    "Mathematics/Topology/Algebraic Topology/Cohomology/Cohomology.md",
     "Meta/Non-Publishable/How to.md",
     "Meta/Non-Publishable/Tasks.md",
-    "Meta/Hilbert 6.md",
     "Mathematics/Geometry/Algebraic Geometry/Hodge theory/Hodge Theory.md",
     "Hori et al. - 2003 - Mirror symmetry.pdf",
-    "Mathematics/Topology/Algebraic Topology/Cohomology/Cohomology.md",
     "Mathematics/Topology/Algebraic Topology",
     "Mathematics/Geometry/Algebraic Geometry/Hodge theory/Untitled",
     "Mathematics/Geometry/Algebraic Geometry",
@@ -265,7 +244,6 @@
     "Mathematics/Topology/Algebraic Topology/Cohomology",
     "Mathematics/Geometry",
     "Mathematics/Topology",
-    "Untitled.canvas",
     "Physics/Quantum Physics/Quantum Mechanics.md",
     "Albuquerque et al. - Dogs recognize dog and human emotions.pdf",
     "Meta/Changelog.md",
@@ -286,8 +264,6 @@
     "desktop.ini",
     "Physics/Quantum Physics/QuantumGravity/Holography/Holography.md",
     "Philosophy/Identity/Identity.md",
-    "Meta/Meta.md",
-    "Physics/Quantum Physics/QuantumGravity/QFTCS/QFTCS.md",
     "Maybe.canvas"
   ]
 }
