@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md",
+                "file": "Hori et al. - 2003 - Mirror symmetry.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md",
+                "file": "Hori et al. - 2003 - Mirror symmetry.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md"
+                "file": "Hori et al. - 2003 - Mirror symmetry.pdf"
               }
             }
           },
@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +195,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "f105c8d421fa8326",
+        "id": "796d4e8bfca2626a",
         "type": "window",
         "children": [
           {
-            "id": "7c2a739a84cac73d",
+            "id": "9624804848c241ea",
             "type": "tabs",
             "children": [
               {
-                "id": "d92f862926ba70f9",
+                "id": "e323e6ae695f7fa6",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -216,31 +216,31 @@
           }
         ],
         "direction": "vertical",
-        "x": 208,
-        "y": 56,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
+        "x": 272,
+        "y": 20,
+        "width": 896,
+        "height": 872,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "9a19d0d2af4da63c",
+  "active": "e323e6ae695f7fa6",
   "lastOpenFiles": [
+    "Untitled.md",
     "Untitled.canvas",
     "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md",
+    "Hori et al. - 2003 - Mirror symmetry.pdf",
     "Meta/Hilbert 6.md",
     "Mathematics/Topology/Topology.md",
     "Mathematics/Topology/Algebraic Topology/Cohomology/Cohomology.md",
     "Meta/Non-Publishable/How to.md",
     "Meta/Non-Publishable/Tasks.md",
     "Mathematics/Geometry/Algebraic Geometry/Hodge theory/Hodge Theory.md",
-    "Hori et al. - 2003 - Mirror symmetry.pdf",
     "Mathematics/Topology/Algebraic Topology",
     "Mathematics/Geometry/Algebraic Geometry/Hodge theory/Untitled",
     "Mathematics/Geometry/Algebraic Geometry",
     "Mathematics/Geometry/Algebraic Geometry/Hodge theory",
-    "Untitled.md",
     "Mathematics/Topology/Algebraic Topology/Cohomology",
     "Mathematics/Geometry",
     "Mathematics/Topology",
