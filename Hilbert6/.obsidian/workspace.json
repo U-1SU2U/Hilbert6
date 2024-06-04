@@ -11,13 +11,8 @@
             "id": "9a19d0d2af4da63c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hori et al. - 2003 - Mirror symmetry.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hori et al. - 2003 - Mirror symmetry.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hori et al. - 2003 - Mirror symmetry.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -190,47 +181,13 @@
       "obsidian-journey-plugin:Find Journey": false
     }
   },
-  "floating": {
-    "id": "986dfa54c767c074",
-    "type": "floating",
-    "children": [
-      {
-        "id": "796d4e8bfca2626a",
-        "type": "window",
-        "children": [
-          {
-            "id": "9624804848c241ea",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e323e6ae695f7fa6",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Hori et al. - 2003 - Mirror symmetry.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 272,
-        "y": 20,
-        "width": 896,
-        "height": 872,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e323e6ae695f7fa6",
+  "active": "9a19d0d2af4da63c",
   "lastOpenFiles": [
+    "Hilbert6/Hilbert 6.md",
     "Untitled.md",
+    "Hori et al. - 2003 - Mirror symmetry.pdf",
     "Untitled.canvas",
     "Mathematics/Topology/Algebraic Topology/Algebraic Topology.md",
-    "Hori et al. - 2003 - Mirror symmetry.pdf",
     "Meta/Hilbert 6.md",
     "Mathematics/Topology/Topology.md",
     "Mathematics/Topology/Algebraic Topology/Cohomology/Cohomology.md",
