@@ -15,6 +15,8 @@ Needless to say, cohesion calls for a unified style.[^1] However, I haven't thou
 
 - [ ] Decide on some basic style guidelines. ⏫ ➕ 2024-06-01
 
+
+
 ### Footnotes
 
 The footnotes section have no heading. [^2]

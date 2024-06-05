@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Quantum Physics/QFT/Vacuum in QFT.md",
+                "file": "Hilbert6/Non-Publishable/How to.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Quantum Physics/QFT/Vacuum in QFT.md",
+                "file": "Hilbert6/Non-Publishable/How to.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Quantum Physics/QFT/Vacuum in QFT.md",
+                "file": "Hilbert6/Non-Publishable/How to.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Quantum Physics/QFT/Vacuum in QFT.md"
+                "file": "Hilbert6/Non-Publishable/How to.md"
               }
             }
           },
@@ -205,8 +205,8 @@
   },
   "active": "a81cb5f45815ff5b",
   "lastOpenFiles": [
-    "Physics/Quantum Physics/QFT/QFT.md",
     "Physics/Quantum Physics/QFT/Vacuum in QFT.md",
+    "Physics/Quantum Physics/QFT/QFT.md",
     "Physics/Classical physics/Relativistic Classical Phsysics/General Relativity.md",
     "Hilbert6/Hilbert 6.md",
     "Untitled.md",
