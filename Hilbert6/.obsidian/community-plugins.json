@@ -16,5 +16,7 @@
   "obsidian-projects",
   "obsidian-journey-plugin",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "omnisearch",
+  "settings-search"
 ]
