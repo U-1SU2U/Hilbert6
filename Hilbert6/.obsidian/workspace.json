@@ -200,7 +200,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "time-ruler:Open Time Ruler": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-journey-plugin:Find Journey": false
+      "obsidian-journey-plugin:Find Journey": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "a81cb5f45815ff5b",
