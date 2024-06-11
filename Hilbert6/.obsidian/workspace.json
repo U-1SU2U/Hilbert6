@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hilbert6/Non-Publishable/How to.md",
+                "file": "Hilbert6/Non-Publishable/Tasks.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hilbert6/Non-Publishable/How to.md",
+                "file": "Hilbert6/Non-Publishable/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hilbert6/Non-Publishable/How to.md",
+                "file": "Hilbert6/Non-Publishable/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hilbert6/Non-Publishable/How to.md"
+                "file": "Hilbert6/Non-Publishable/Tasks.md"
               }
             }
           },
@@ -206,10 +206,10 @@
   },
   "active": "a81cb5f45815ff5b",
   "lastOpenFiles": [
+    "Hilbert6/Non-Publishable/How to.md",
     "Hilbert6/Contact.md",
     "Hilbert6/Changelog.md",
     "Hilbert6/About us.md",
-    "Hilbert6/Non-Publishable/How to.md",
     "Physics/Quantum Physics/QFT/Vacuum in QFT.md",
     "Physics/Quantum Physics/QFT/QFT.md",
     "Physics/Classical physics/Relativistic Classical Phsysics/General Relativity.md",
