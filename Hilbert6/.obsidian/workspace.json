@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hilbert6/Non-Publishable/Tasks.md",
+                "file": "Hilbert6/Non-Publishable/How to.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hilbert6/Non-Publishable/Tasks.md",
+                "file": "Hilbert6/Non-Publishable/How to.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hilbert6/Non-Publishable/Tasks.md",
+                "file": "Hilbert6/Non-Publishable/How to.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hilbert6/Non-Publishable/Tasks.md"
+                "file": "Hilbert6/Non-Publishable/How to.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "a81cb5f45815ff5b",
   "lastOpenFiles": [
+    "Hilbert6/Non-Publishable/Tasks.md",
     "Hilbert6/Non-Publishable/How to.md",
     "Hilbert6/Contact.md",
     "Hilbert6/Changelog.md",
@@ -241,7 +242,6 @@
     "Philosophy/Philosophy.md",
     "Physics/Quantum Physics/QuantumGravity/Holography/AFS/AFS Holography.md",
     "Physics/Quantum Physics/QuantumGravity/Holography/AFS/Celestial Holography.md",
-    "Physics/Quantum Physics/QuantumGravity/String Theory/String Theory.md",
     "Untitled 1.canvas",
     "desktop.ini",
     "Maybe.canvas"
